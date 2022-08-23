@@ -1,8 +1,9 @@
 # Тотальный `React`
+#:blue_heart: :yellow_heart: Support Ukraine:heavy_exclamation_mark:
 
-<font size="1">#[ :blue_heart: :yellow_heart: Support Ukraine:heavy_exclamation_mark:](https://war.ukraine.ua/support-ukraine/)</font>
+# [ :blue_heart: :yellow_heart: Support Ukraine:heavy_exclamation_mark: ](https://war.ukraine.ua/support-ukraine/)
 
-## Ресурс для изучения `React.js` и связанных с ним технологий
+##  Ресурс для изучения `React.js` и связанных с ним технологий
 
 ### :heavy_exclamation_mark: Друзья, рад сообщить о запуске моего сайта с существенно переработанными, исправленными и дополненными материалами из данного репозитория, а также блога по разработке приложений на JavaScript, React, Next.js, TypeScript, Node.js и других технологиях: [MyJavaScript](https://my-js.org).
 
