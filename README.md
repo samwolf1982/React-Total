@@ -1,4 +1,4 @@
-# Тотальный `React` :metal:
+# Тотальный `React`
 
 # :blue_heart: :yellow_heart: Support Ukraine:heavy_exclamation_mark:
 
