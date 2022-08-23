@@ -1,6 +1,6 @@
 # Тотальный `React`
 
-# :blue_heart: :yellow_heart: Support Ukraine:heavy_exclamation_mark:
+#[ :blue_heart: :yellow_heart: Support Ukraine:heavy_exclamation_mark:](https://war.ukraine.ua/support-ukraine/)
 
 ## Ресурс для изучения `React.js` и связанных с ним технологий
 
